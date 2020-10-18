@@ -1,5 +1,28 @@
 import React from "react";
+import Accordion from "./components/Accordion";
+import Search from "./components/Search";
+
+const items = [
+  {
+    title: "What is React?",
+    content: "React is a front end JS framework",
+  },
+  {
+    title: "Why use React?",
+    content: "React is a fav JS library among engineers",
+  },
+  {
+    title: "How do you use React?",
+    content: "You use React by creating components",
+  },
+];
 
 export default () => {
-  return <h1>React</h1>;
+  return (
+    <div>
+      <br />
+      <Search />
+      <Accordion items={items} />
+    </div>
+  );
 };
