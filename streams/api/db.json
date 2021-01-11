@@ -11,16 +11,14 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
-      "description": "This was made by me",
-      "userId": "101527878015867163379",
-      "id": 3
+      "title": "Internal Navigation",
+      "description": "stream is about refactoring",
+      "id": 4
     },
     {
-      "title": "Internal Navigation",
-      "description": "demo",
-      "userId": "101527878015867163379",
-      "id": 4
+      "title": "me streaming component re use",
+      "description": "watch me refactor some components again",
+      "id": 5
     }
   ]
 }
