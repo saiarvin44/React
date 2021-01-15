@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "create-react-app": "^4.0.1",
-    "react-redux": "^7.2.2",
-    "redux": "^4.0.5"
-  }
-}
